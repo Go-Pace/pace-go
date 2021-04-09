@@ -1,4 +1,4 @@
-<h1 align="center"> <img src="./gopace-logo.png"> </h1> <br>
+<h1 align="center"> <img src="./gopace-logo-main.png"> </h1> <br>
 
 Go Pace is a delivery service that enables everyone to get what they want when they need it most. This is a Golang Client Library to interact with the Go Pace Client API.
 
